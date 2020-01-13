@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jacc-per-app:war">
+    <output-path>$PROJECT_DIR$/payara/jacc-per-app/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>jacc-per-app</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="jacc-per-app.war">
+      <element id="artifact" artifact-name="jacc-per-app:war exploded" />
+    </root>
+  </artifact>
+</component>

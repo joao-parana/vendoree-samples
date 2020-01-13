@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/payara/jacc-per-app/jacc-per-app.iml" filepath="$PROJECT_DIR$/payara/jacc-per-app/jacc-per-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payara/oauth2/oauth2.iml" filepath="$PROJECT_DIR$/payara/oauth2/oauth2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payara/openid/openid.iml" filepath="$PROJECT_DIR$/payara/openid/openid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payara/payara-parent.iml" filepath="$PROJECT_DIR$/payara/payara-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payara/rolesPermitted/rolesPermitted.iml" filepath="$PROJECT_DIR$/payara/rolesPermitted/rolesPermitted.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples-parent.iml" filepath="$PROJECT_DIR$/samples-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-utils/test-utils.iml" filepath="$PROJECT_DIR$/test-utils/test-utils.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="rolesPermitted:war">
+    <output-path>$PROJECT_DIR$/payara/rolesPermitted/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>rolesPermitted</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="rolesPermitted.war">
+      <element id="artifact" artifact-name="rolesPermitted:war exploded" />
+    </root>
+  </artifact>
+</component>

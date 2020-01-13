@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="openid:war">
+    <output-path>$PROJECT_DIR$/payara/openid/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>openid</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="openid.war">
+      <element id="artifact" artifact-name="openid:war exploded" />
+    </root>
+  </artifact>
+</component>

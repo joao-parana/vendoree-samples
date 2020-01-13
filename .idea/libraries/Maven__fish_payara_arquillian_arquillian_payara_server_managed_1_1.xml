@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: fish.payara.arquillian:arquillian-payara-server-managed:1.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/fish/payara/arquillian/arquillian-payara-server-managed/1.1/arquillian-payara-server-managed-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/fish/payara/arquillian/arquillian-payara-server-managed/1.1/arquillian-payara-server-managed-1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/fish/payara/arquillian/arquillian-payara-server-managed/1.1/arquillian-payara-server-managed-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
